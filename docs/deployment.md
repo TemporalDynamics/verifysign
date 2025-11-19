@@ -1,4 +1,4 @@
-# VerifySign – Deployment Guide (Vercel + Supabase)
+# EcoSign – Deployment Guide (Vercel + Supabase)
 
 This guide describes how to ship the cleaned-up JAMStack architecture: a single Vite/React frontend on Vercel plus Supabase for auth, Postgres, storage, and edge functions.
 
@@ -53,7 +53,7 @@ Pass: re_xxxxxxxxxxxx
 From: noreply@verifysign.com
 ```
 2. **Authentication → URL Configuration**: set Site URL to your Vercel domain (update after custom domain).
-3. Customize email templates so they mention VerifySign and the correct URLs.
+3. Customize email templates so they mention EcoSign and the correct URLs.
 
 ### 2.5 API keys & env vars
 Copy from **Settings → API**:

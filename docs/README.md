@@ -1,6 +1,6 @@
 # Documentation Index
 
-This folder contains the canonical documentation for the VerifySign monorepo.
+This folder contains the canonical documentation for the EcoSign monorepo.
 
 - `architecture.md` – system overview, responsibilities and boundaries between apps/packages.
 - `deployment.md` – build, environment configuration and delivery pipeline details.

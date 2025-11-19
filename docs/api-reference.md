@@ -1,6 +1,6 @@
-# VerifySign API Reference
+# EcoSign API Reference
 
-The current VerifySign stack exposes two integration surfaces:
+The current EcoSign stack exposes two integration surfaces:
 1. **Supabase Edge Functions** (TypeScript/Deno) reachable through `https://<project-ref>.functions.supabase.co/<function>`.
 2. **Supabase PostgREST endpoints** under `https://<project-ref>.supabase.co/rest/v1/` protected by Row Level Security.
 

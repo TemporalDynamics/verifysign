@@ -1,4 +1,4 @@
-# VerifySign Dependency Audit (Fase 0 Quick Win)
+# EcoSign Dependency Audit (Fase 0 Quick Win)
 
 _Fecha:_ 2025-11-08
 

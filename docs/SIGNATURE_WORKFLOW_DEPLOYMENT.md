@@ -293,7 +293,7 @@ import Resend from 'npm:resend';
 const resend = new Resend(Deno.env.get('RESEND_API_KEY'));
 
 await resend.emails.send({
-  from: 'VerifySign <noreply@verifysign.pro>',
+  from: 'EcoSign <noreply@verifysign.pro>',
   to: recipientEmail,
   subject: subject,
   html: bodyHtml

@@ -1,4 +1,4 @@
-# 🗺️ ROADMAP DE IMPLEMENTACIÓN - eco-packer en VerifySign
+# 🗺️ ROADMAP DE IMPLEMENTACIÓN - eco-packer en EcoSign
 
 **Fecha**: 2025-11-10
 **Objetivo**: Integrar @temporaldynamics/eco-packer para certificación y verificación de documentos
@@ -10,12 +10,12 @@
 
 ### Estado Actual
 - ✅ eco-packer v1.1.0 disponible y funcional
-- ✅ VerifySign MVP con UI completo
+- ✅ EcoSign MVP con UI completo
 - ⚠️ Integraciones Mifiel/SignNow son placeholders
 - ❌ eco-packer NO está integrado aún
 
 ### Objetivo Final
-**VerifySign completo con**:
+**EcoSign completo con**:
 1. Certificación de documentos → genera `.ecox` firmados
 2. Verificación pública → valida `.eco`/`.ecox`
 3. Gestión de claves criptográficas Ed25519
@@ -507,9 +507,9 @@ export class CertificationService {
       segments: [],
       metadata: {
         title: file.name,
-        certifiedBy: 'VerifySign',
+        certifiedBy: 'EcoSign',
         platform: 'verifysign.pro',
-        description: `Documento certificado con VerifySign - ${new Date().toLocaleString()}`
+        description: `Documento certificado con EcoSign - ${new Date().toLocaleString()}`
       }
     };
 
@@ -1068,7 +1068,7 @@ Un archivo `.ecox` es un contenedor criptográficamente firmado que contiene:
 
 ## Cómo certificar un documento
 
-1. Inicia sesión en VerifySign
+1. Inicia sesión en EcoSign
 2. Ve a Dashboard
 3. Click en "Certificar Documento"
 4. Selecciona tu archivo (PDF, imagen, etc.)
@@ -1196,7 +1196,7 @@ git push origin main
 - Docs: `/home/manu/verifysign/eco-packer/README.md`
 - API: `/home/manu/verifysign/eco-packer/API.md`
 
-**Problemas con VerifySign**:
+**Problemas con EcoSign**:
 - Issues: GitHub
 - Docs: `/home/manu/verifysign/docs/`
 

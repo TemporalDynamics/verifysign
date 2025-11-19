@@ -228,7 +228,7 @@ Prueba inmutable
 
 7. **Auditoría pública**
    - Cualquiera puede verificar independientemente
-   - No requiere confiar en VerifySign
+   - No requiere confiar en EcoSign
    - Blockchain como "notario digital"
 
 8. **Compliance técnico**
@@ -592,7 +592,7 @@ async function addDualTimestamp(hash) {
 **Competencia diferenciada**:
 - OriginStamp: €9.99/mes (20 docs)
 - Stampery: $29/mes (100 docs)
-- VerifySign: **$0.99/doc o $10/mes ilimitado** ✅ **MEJOR PRECIO**
+- EcoSign: **$0.99/doc o $10/mes ilimitado** ✅ **MEJOR PRECIO**
 
 **ROI**:
 - Costo: $0.01/doc
@@ -610,7 +610,7 @@ async function addDualTimestamp(hash) {
 **Competencia**:
 - DocuSign: $40/mes (1 user, 100 docs)
 - Adobe Sign: $35/mes (1 user, unlimited)
-- VerifySign: **$4.99/doc o $99/mes ilimitado** ✅ **COMPETITIVO**
+- EcoSign: **$4.99/doc o $99/mes ilimitado** ✅ **COMPETITIVO**
 
 **ROI**:
 - Costo: $0/doc (FreeTSA)
@@ -628,7 +628,7 @@ async function addDualTimestamp(hash) {
 **Competencia**:
 - Mifiel: $4,500 MXN/año (50 docs)
 - Firma Autógrafa: $6,000 MXN/año (100 docs)
-- VerifySign: **$29.99/doc o $299/mes ilimitado**
+- EcoSign: **$29.99/doc o $299/mes ilimitado**
 
 **ROI**:
 - Costo: $5-10/doc (Mifiel API)

@@ -2,7 +2,7 @@
 
 **Documento de trabajo para el desarrollador**
 
-Este documento lista **TODAS las violaciones** encontradas en el código actual que rompen los 20 Mandamientos de VerifySign. Cada violación incluye:
+Este documento lista **TODAS las violaciones** encontradas en el código actual que rompen los 20 Mandamientos de EcoSign. Cada violación incluye:
 - 📍 Ubicación exacta
 - ❌ Texto/código actual
 - ✅ Reemplazo correcto

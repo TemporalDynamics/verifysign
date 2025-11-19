@@ -9,7 +9,7 @@
 
 ## 🎯 RESUMEN EJECUTIVO
 
-Este documento define las decisiones de producto para el sistema de firma multi-parte de VerifySign. **No son sugerencias técnicas**, sino lineamientos de producto que deben implementarse tal cual.
+Este documento define las decisiones de producto para el sistema de firma multi-parte de EcoSign. **No son sugerencias técnicas**, sino lineamientos de producto que deben implementarse tal cual.
 
 ### Principios Core:
 1. **Seguridad por defecto máxima** (Login + NDA siempre activos)
@@ -74,7 +74,7 @@ ALTER TABLE workflow_signers
 └─────────────────────────────────────────┘
 ```
 
-**Razón de producto**: La seguridad es parte del ADN de VerifySign. Por defecto, todo está protegido. Solo se desactiva explícitamente con "Acceso Rápido".
+**Razón de producto**: La seguridad es parte del ADN de EcoSign. Por defecto, todo está protegido. Solo se desactiva explícitamente con "Acceso Rápido".
 
 ---
 
@@ -146,7 +146,7 @@ nda_fingerprint JSONB  -- { canvas, webgl, fonts, timezone, ... }
 ### Sin Configuración:
 - **NO hay** switch para "activar tracking"
 - **NO hay** opción de "modo privado"
-- **Siempre está ON** (es parte del valor de VerifySign)
+- **Siempre está ON** (es parte del valor de EcoSign)
 
 **Razón de producto**: VerifyTracker es una feature core, no opcional. Todo acceso, firma y modificación debe ser auditable.
 

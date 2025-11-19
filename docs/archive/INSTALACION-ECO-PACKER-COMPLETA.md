@@ -7,7 +7,7 @@
 
 ## 📋 RESUMEN
 
-Se ha completado exitosamente la instalación y configuración de `@temporaldynamics/eco-packer` en el proyecto VerifySign.
+Se ha completado exitosamente la instalación y configuración de `@temporaldynamics/eco-packer` en el proyecto EcoSign.
 
 ---
 
@@ -104,7 +104,7 @@ Test 1: Generating Ed25519 key pair...
 
 Test 2: Computing SHA-256 hash...
 ✅ Hash computed successfully!
-  Input: Hello, VerifySign!
+  Input: Hello, EcoSign!
   SHA-256: 0503054559f1e42695f48407ecd9bacf17fc288ee7bace999c6cd56f60e4f0f8
 
 🎉 All tests passed! eco-packer is working correctly.

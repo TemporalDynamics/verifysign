@@ -25,7 +25,7 @@
 **Documentación**:
 - ✅ DEPLOYMENT.md
 - ✅ SESSION-SUMMARY-2025-11-09.md
-- ✅ CHANGELOG.md (VerifySign)
+- ✅ CHANGELOG.md (EcoSign)
 
 ---
 
@@ -133,15 +133,15 @@ Sin pushear:           1 commit (eco-packer docs)
 
 ### **Archivos Creados**:
 ```
-VerifySign:            38 archivos
+EcoSign:            38 archivos
 eco-packer docs:       4 archivos
 Total:                 42 archivos
 ```
 
 ### **Líneas de Código**:
 ```
-VerifySign código:     ~5,135 líneas
-VerifySign docs:       ~2,500 líneas
+EcoSign código:     ~5,135 líneas
+EcoSign docs:       ~2,500 líneas
 eco-packer docs:       ~1,774 líneas
 Total:                 ~9,400 líneas
 ```
@@ -168,7 +168,7 @@ Total documentación:   5,189 líneas ✨
 
 ## 🎯 Estado Actual del Proyecto
 
-### **VerifySign MVP**:
+### **EcoSign MVP**:
 
 ```
 Security:              ████████████████████ 100% ✅

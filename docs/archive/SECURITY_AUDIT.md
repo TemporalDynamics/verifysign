@@ -1,11 +1,11 @@
-# Security Audit - VerifySign
+# Security Audit - EcoSign
 
 **Fecha**: Noviembre 2025
 **Estado**: ✅ Aprobado con recomendaciones
 
 ## Resumen Ejecutivo
 
-Se realizó una auditoría de seguridad del código de VerifySign para identificar posibles exposiciones de API keys, secrets, y vulnerabilidades comunes. El proyecto sigue buenas prácticas de seguridad en general.
+Se realizó una auditoría de seguridad del código de EcoSign para identificar posibles exposiciones de API keys, secrets, y vulnerabilidades comunes. El proyecto sigue buenas prácticas de seguridad en general.
 
 ## Hallazgos
 
@@ -185,4 +185,4 @@ console.log("User authenticated:", user.id);
 
 **Auditado por**: Claude Code
 **Próxima Auditoría**: Febrero 2025
-**Contacto**: Equipo de Seguridad VerifySign
+**Contacto**: Equipo de Seguridad EcoSign

@@ -1,4 +1,4 @@
-# 🔧 FIX LOGIN COMPLETO - VerifySign
+# 🔧 FIX LOGIN COMPLETO - EcoSign
 
 ## ✅ PROBLEMA RESUELTO
 
@@ -73,7 +73,7 @@ https://verifysign-*.vercel.app/**
 
 **Cambiar el template** (opcional):
 ```html
-<h2>Bienvenido a VerifySign</h2>
+<h2>Bienvenido a EcoSign</h2>
 <p>Haz clic en el link para confirmar tu email:</p>
 <p><a href="{{ .ConfirmationURL }}">Confirmar Email</a></p>
 ```

@@ -1,11 +1,11 @@
-# VerifySign Design System
+# EcoSign Design System
 **Sistema de diseño unificado aplicando los 20 Mandamientos**
 
 ---
 
 ## 0. PRINCIPIOS FUNDAMENTALES
 
-### Espíritu VerifySign
+### Espíritu EcoSign
 - **Humano**: Hablamos como personas, no como máquinas
 - **Simple**: Sin tecnicismos, sin jerga, sin pasos innecesarios
 - **Cálido**: Cercano, amable, sin frialdad corporativa
@@ -145,7 +145,7 @@ Cards: p-4 o p-6
   
   {/* Título */}
   <h1 className="text-xl font-semibold text-main text-center">
-    VerifySign
+    EcoSign
   </h1>
   
   {/* Subtítulo */}
@@ -615,7 +615,7 @@ Cards: p-4 o p-6
           Sellás tu evidencia
         </h3>
         <p className="text-sm text-muted leading-relaxed">
-          VerifySign genera automáticamente tu certificado con todas las pruebas
+          EcoSign genera automáticamente tu certificado con todas las pruebas
         </p>
       </div>
       
@@ -662,7 +662,7 @@ Cards: p-4 o p-6
   
   {/* Texto explicativo */}
   <p className="text-base text-muted leading-relaxed mb-4">
-    Tu documento original y tu .ECO quedan en tu espacio personal dentro de VerifySign, sin modificaciones
+    Tu documento original y tu .ECO quedan en tu espacio personal dentro de EcoSign, sin modificaciones
   </p>
   
   {/* Nota importante */}
@@ -935,7 +935,7 @@ Antes de implementar cualquier pantalla o componente, verificar:
 - [ ] SÍ usa lenguaje humano, cálido y simple
 - [ ] SÍ mantiene solo azul como color de acento
 - [ ] SÍ explica beneficios para el usuario (qué recibe, qué puede hacer)
-- [ ] SÍ mantiene el espíritu VerifySign en cada texto
+- [ ] SÍ mantiene el espíritu EcoSign en cada texto
 
 ---
 
@@ -1053,4 +1053,4 @@ El documento no es igual al que se certificó con este archivo .ECO
 
 **FIN DEL DESIGN SYSTEM**
 
-Este documento debe ser la **única fuente de verdad** para cualquier decisión de UX, UI o copywriting en VerifySign. Si algo no está aquí, se consulta primero contra los 20 Mandamientos antes de implementar.
+Este documento debe ser la **única fuente de verdad** para cualquier decisión de UX, UI o copywriting en EcoSign. Si algo no está aquí, se consulta primero contra los 20 Mandamientos antes de implementar.

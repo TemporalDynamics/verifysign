@@ -1,7 +1,7 @@
 # A/B Testing Implementation Summary
 
 ## Overview
-Implemented a complete A/B testing system for VerifySign with three marketing copy variants, analytics tracking, and an admin dashboard to monitor conversion metrics.
+Implemented a complete A/B testing system for EcoSign with three marketing copy variants, analytics tracking, and an admin dashboard to monitor conversion metrics.
 
 ## Components Implemented
 

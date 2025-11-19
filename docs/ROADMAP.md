@@ -454,7 +454,7 @@
 
   ¿Por dónde quieres empezar?
 
-● He completado el análisis exhaustivo de VerifySign. Aquí está el resumen
+● He completado el análisis exhaustivo de EcoSign. Aquí está el resumen
   ejecutivo:
 
   🎯 VEREDICTO FINAL
@@ -464,7 +464,7 @@
 
   ✅ Lo que SÍ ayuda a tu estrategia .ECO/.ECOX:
 
-  1. Validación técnica del paradigma LTC: VerifySign usa las mismas
+  1. Validación técnica del paradigma LTC: EcoSign usa las mismas
   primitivas (eco-packer, firmas Ed25519, SHA-256)
   2. Educación de mercado: Cada usuario que verifica un .ecox aprende el
   concepto de "inmutabilidad verificable"

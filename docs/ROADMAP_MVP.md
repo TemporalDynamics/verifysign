@@ -1,4 +1,4 @@
-# VerifySign MVP Roadmap
+# EcoSign MVP Roadmap
 
 **Objetivo MVP**: Cerrar 3 flujos end-to-end completos.
 
@@ -195,7 +195,7 @@ anchors         -- anclajes blockchain (Bitcoin, Polygon)
 ## Métricas de Éxito MVP
 
 1. Usuario puede certificar documento en < 30 segundos
-2. .ECO verificable sin depender de VerifySign
+2. .ECO verificable sin depender de EcoSign
 3. NDA firmable en < 1 minuto
 4. Tracking de accesos visible en dashboard
 5. 0 vulnerabilidades de seguridad críticas

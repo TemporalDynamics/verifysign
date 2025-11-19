@@ -1,4 +1,4 @@
-# 🚀 QUICK WINS - VerifySign MVP (Hoy)
+# 🚀 QUICK WINS - EcoSign MVP (Hoy)
 
 ## 📊 Estado Actual
 ✅ **Landing page profesional y funcional**
@@ -20,7 +20,7 @@
 1. Crear repositorio público: github.com/temporaldynamics/verifysign
 2. Agregar README.md profesional con:
    - Screenshots de la landing
-   - "VerifySign - Open Source Digital Trust Layer"
+   - "EcoSign - Open Source Digital Trust Layer"
    - Badge de licencia MIT
    - Link a demo live
 3. Agregar topics: blockchain, e-signature, forensics, nda, legal-tech
@@ -38,11 +38,11 @@
 
 #### A. README.md Principal
 ```markdown
-# VerifySign - Open Source Digital Trust Layer
+# EcoSign - Open Source Digital Trust Layer
 
 ## 🔐 La Verdad de tus Documentos, Verificable por Cualquiera
 
-VerifySign es una plataforma de certificación digital forense que permite:
+EcoSign es una plataforma de certificación digital forense que permite:
 - ✅ Certificar documentos con hash SHA-256 + timestamp
 - ✅ Crear enlaces seguros con NDA digital
 - ✅ Verificar autenticidad de forma pública (sin cuenta)
@@ -69,7 +69,7 @@ npm run dev
 
 #### B. docs/ROADMAP.md
 ```markdown
-# Roadmap VerifySign
+# Roadmap EcoSign
 
 ## ✅ Fase 1: MVP (COMPLETADO - Nov 2025)
 - Landing page profesional
@@ -107,10 +107,10 @@ npm run dev
 ### 3. 🎨 **Crear Assets Visuales** (30 min)
 
 **Crear con Canva o Figma:**
-- Logo VerifySign (SVG + PNG)
+- Logo EcoSign (SVG + PNG)
 - Banner para GitHub (1280x640)
 - Screenshot profesional de la landing
-- Diagrama de flujo: "Cómo funciona VerifySign"
+- Diagrama de flujo: "Cómo funciona EcoSign"
 
 **Subir a `/public/assets/`** para usar en README
 
@@ -120,10 +120,10 @@ npm run dev
 
 #### A. Hacker News (Show HN)
 ```
-Título: Show HN: VerifySign - Open Source Digital Signature with Blockchain Anchoring
+Título: Show HN: EcoSign - Open Source Digital Signature with Blockchain Anchoring
 
 Texto:
-Hey HN! I built VerifySign, an open-source alternative to DocuSign
+Hey HN! I built EcoSign, an open-source alternative to DocuSign
 that adds blockchain anchoring for tamper-proof audit trails.
 
 Key features:
@@ -154,7 +154,7 @@ Would love feedback from the community!
 
 **Post template**:
 ```
-[Open Source] Built VerifySign - DocuSign alternative with blockchain verification
+[Open Source] Built EcoSign - DocuSign alternative with blockchain verification
 
 I created an open-source e-signature platform that adds blockchain
 anchoring for independent verification. Unlike closed platforms,
@@ -170,11 +170,11 @@ Looking for: Contributors, feedback, security audits (bug bounty coming!)
 ```
 
 #### C. Dev.to / Hashnode
-**Artículo**: "Building VerifySign: Open Source Digital Trust Layer with Blockchain"
+**Artículo**: "Building EcoSign: Open Source Digital Trust Layer with Blockchain"
 
 **Secciones**:
 1. The Problem (DocuSign's black box)
-2. The Solution (VerifySign architecture)
+2. The Solution (EcoSign architecture)
 3. Tech Stack & Decisions
 4. How Blockchain Anchoring Works
 5. What's Next (roadmap)
@@ -206,14 +206,14 @@ Looking for: Contributors, feedback, security audits (bug bounty coming!)
 
 **Template**:
 ```
-Subject: Beta access to VerifySign - Open Source Digital Trust
+Subject: Beta access to EcoSign - Open Source Digital Trust
 
 Hi [Name],
 
-I'm building VerifySign, an open-source platform for digital
+I'm building EcoSign, an open-source platform for digital
 signatures with blockchain verification.
 
-Unlike DocuSign/Adobe Sign (closed, expensive), VerifySign:
+Unlike DocuSign/Adobe Sign (closed, expensive), EcoSign:
 ✅ Is open source & auditable
 ✅ Provides blockchain-anchored proof
 ✅ Allows public verification (no account needed)
@@ -273,7 +273,7 @@ Best,
 - Usar Buttondown o Substack (gratis)
 
 ### D. Twitter/X
-- Crear cuenta @VerifySignHQ
+- Crear cuenta @EcoSignHQ
 - Threads explicando la visión
 - Screenshots del producto
 

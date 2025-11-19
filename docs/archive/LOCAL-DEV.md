@@ -1,4 +1,4 @@
-# Guía de Desarrollo Local - VerifySign
+# Guía de Desarrollo Local - EcoSign
 
 Guía rápida para levantar el proyecto localmente y empezar a desarrollar.
 

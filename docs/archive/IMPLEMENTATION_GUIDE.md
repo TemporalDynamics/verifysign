@@ -1,4 +1,4 @@
-# Guía de Implementación VerifySign
+# Guía de Implementación EcoSign
 
 ## Estado Actual del Proyecto
 
@@ -504,7 +504,7 @@ Sentry.init({
 
 ## Conclusión
 
-El sistema VerifySign está completamente implementado y listo para producción con las funcionalidades core. Las integraciones adicionales (blockchain real, emails, API pública) son mejoras incrementales que pueden agregarse sin alterar la arquitectura existente.
+El sistema EcoSign está completamente implementado y listo para producción con las funcionalidades core. Las integraciones adicionales (blockchain real, emails, API pública) son mejoras incrementales que pueden agregarse sin alterar la arquitectura existente.
 
 **Próximo paso inmediato**: Deploy a Netlify y pruebas en producción.
 

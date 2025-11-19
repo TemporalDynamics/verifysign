@@ -1,4 +1,4 @@
-# Resumen de Implementación - VerifySign
+# Resumen de Implementación - EcoSign
 
 **Fecha**: 7 de Noviembre, 2025
 **Estado**: ✅ Completado
@@ -193,4 +193,4 @@ cd app && npm run build
 **Security**: ✅ Auditado
 
 **Desarrollado por**: Claude Code
-**Contacto**: Equipo VerifySign
+**Contacto**: Equipo EcoSign

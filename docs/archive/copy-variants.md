@@ -1,4 +1,4 @@
-# Variantes de Copy para A/B Testing - VerifySign
+# Variantes de Copy para A/B Testing - EcoSign
 
 ## Objetivo
 Maximizar conversiones en la landing page probando diferentes enfoques de messaging.
@@ -10,7 +10,7 @@ Maximizar conversiones en la landing page probando diferentes enfoques de messag
 ### Hero Section
 **Título**: La Capa de Confianza Digital que Necesitas Hoy
 
-**Subtítulo**: No esperes a mañana para proteger tus documentos más valiosos. VerifySign crea evidencia forense inmutable en minutos, sin burocracias ni dependencias gubernamentales.
+**Subtítulo**: No esperes a mañana para proteger tus documentos más valiosos. EcoSign crea evidencia forense inmutable en minutos, sin burocracias ni dependencias gubernamentales.
 
 **CTAs**:
 - Botón Principal: "Proteger Mis Documentos Ahora"
@@ -20,7 +20,7 @@ Maximizar conversiones en la landing page probando diferentes enfoques de messag
 **Headline**: Tu Documento, Tu Prueba, Tu Soberanía
 
 **Copy**:
-Cada segundo sin protección es un riesgo. VerifySign te da:
+Cada segundo sin protección es un riesgo. EcoSign te da:
 - ✅ Prueba de autoría instantánea
 - ✅ Timestamp criptográfico inviolable
 - ✅ Certificados .ECO que funcionan sin nosotros
@@ -35,7 +35,7 @@ Cada segundo sin protección es un riesgo. VerifySign te da:
 ### Hero Section
 **Título**: Devuélvele el Poder de la Verdad a Tus Manos
 
-**Subtítulo**: Durante décadas, certificar documentos ha sido caro, lento y dependiente de terceros. Ya no más. VerifySign democratiza la confianza digital para todos.
+**Subtítulo**: Durante décadas, certificar documentos ha sido caro, lento y dependiente de terceros. Ya no más. EcoSign democratiza la confianza digital para todos.
 
 **CTAs**:
 - Botón Principal: "Unirme a la Revolución Digital"
@@ -45,7 +45,7 @@ Cada segundo sin protección es un riesgo. VerifySign te da:
 **Headline**: No Vendemos Firmas, Vendemos Verdad
 
 **Copy**:
-VerifySign nació de una convicción simple: la justicia digital debe ser accesible.
+EcoSign nació de una convicción simple: la justicia digital debe ser accesible.
 
 - 💪 Sin intermediarios innecesarios
 - 🌐 Evidencia verificable por cualquiera
@@ -160,9 +160,9 @@ Mejora de +15% en conversión principal o +25% en conversión a pago.
 ## Copy Adicional para Secciones Clave
 
 ### Testimonios (Placeholder)
-> "VerifySign me dio la tranquilidad de que mi proyecto estaba protegido antes de compartirlo. El certificado .ECO fue aceptado como evidencia en mi disputa." - María G., Diseñadora
+> "EcoSign me dio la tranquilidad de que mi proyecto estaba protegido antes de compartirlo. El certificado .ECO fue aceptado como evidencia en mi disputa." - María G., Diseñadora
 
-> "Como abogado, necesitaba una solución rápida y confiable. VerifySign entregó en segundos lo que hubiera tardado días con un notario." - Dr. Carlos M., Abogado
+> "Como abogado, necesitaba una solución rápida y confiable. EcoSign entregó en segundos lo que hubiera tardado días con un notario." - Dr. Carlos M., Abogado
 
 ### Trust Indicators
 - 🔒 Cifrado de nivel militar (AES-256)
@@ -183,5 +183,5 @@ Mejora de +15% en conversión principal o +25% en conversión a pago.
 ---
 
 **Última actualización**: Noviembre 2025
-**Responsable**: Equipo VerifySign
+**Responsable**: Equipo EcoSign
 **Estado**: Listo para implementar

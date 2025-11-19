@@ -1,4 +1,4 @@
-# VerifySign MVP - Estado Actual y Próximos Pasos
+# EcoSign MVP - Estado Actual y Próximos Pasos
 
 ## 📊 Análisis de Logs - Última Ejecución
 
@@ -197,7 +197,7 @@ POLYGON_CONTRACT_ADDRESS=0xYOUR_CONTRACT
   ],
   "metadata": {
     "certifiedAt": "2025-01-18T10:30:00.000Z",
-    "certifiedBy": "VerifySign",
+    "certifiedBy": "EcoSign",
     "clientInfo": {
       "userAgent": "Mozilla/5.0...",
       "platform": "Linux x86_64",

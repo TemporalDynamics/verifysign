@@ -1,6 +1,6 @@
-# Contributing to VerifySign
+# Contributing to EcoSign
 
-Thank you for your interest in contributing to VerifySign! This document provides guidelines and information about how to contribute to the project.
+Thank you for your interest in contributing to EcoSign! This document provides guidelines and information about how to contribute to the project.
 
 ## Table of Contents
 - [Getting Started](#getting-started)
@@ -13,7 +13,7 @@ Thank you for your interest in contributing to VerifySign! This document provide
 
 ## Getting Started
 
-VerifySign is a digital certification platform that creates verifiable .ECO certificates with blockchain anchoring. It combines both static landing pages and a modern React application.
+EcoSign is a digital certification platform that creates verifiable .ECO certificates with blockchain anchoring. It combines both static landing pages and a modern React application.
 
 ## Development Setup
 
@@ -104,4 +104,4 @@ If you have any questions about contributing, feel free to open an issue or chec
 
 ---
 
-Thank you for contributing to VerifySign and helping make digital trust more accessible!
+Thank you for contributing to EcoSign and helping make digital trust more accessible!

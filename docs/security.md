@@ -1,8 +1,8 @@
-# VerifySign - Documento de Seguridad
+# EcoSign - Documento de Seguridad
 
 ## Resumen Ejecutivo
 
-Este documento detalla la arquitectura de seguridad de VerifySign, las amenazas consideradas, medidas de mitigación implementadas y recomendaciones para operación segura.
+Este documento detalla la arquitectura de seguridad de EcoSign, las amenazas consideradas, medidas de mitigación implementadas y recomendaciones para operación segura.
 
 ---
 
@@ -530,7 +530,7 @@ catch (error) {
 
 ## Conclusión
 
-VerifySign implementa múltiples capas de seguridad basadas en estándares de la industria. La arquitectura prioriza la transparencia verificable sobre la seguridad por oscuridad.
+EcoSign implementa múltiples capas de seguridad basadas en estándares de la industria. La arquitectura prioriza la transparencia verificable sobre la seguridad por oscuridad.
 
 **Principio fundamental**: La seguridad no debe comprometer la soberanía del usuario. Los certificados .ECO son verificables independientemente de la plataforma.
 

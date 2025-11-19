@@ -1,4 +1,4 @@
-# 🚀 GUÍA DE IMPLEMENTACIÓN MVP - VerifySign
+# 🚀 GUÍA DE IMPLEMENTACIÓN MVP - EcoSign
 
 **Fecha:** 2025-11-18
 **Versión:** 1.0
@@ -745,7 +745,7 @@ Para revisar y firmar el documento, hacé clic aquí:
 Este link expira el [fecha_expiracion].
 
 ---
-VerifySign - La Capa de Confianza Digital
+EcoSign - La Capa de Confianza Digital
 ```
 
 ### **5.2 Template: Documento Firmado**
@@ -766,7 +766,7 @@ Podés descargar el certificado .ECO desde tu panel:
 [Link al dashboard]
 
 ---
-VerifySign - La Capa de Confianza Digital
+EcoSign - La Capa de Confianza Digital
 ```
 
 ---

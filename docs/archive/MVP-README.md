@@ -1,8 +1,8 @@
-# VerifySign MVP - Certificación Digital Forense
+# EcoSign MVP - Certificación Digital Forense
 
 ## 🎯 Resumen del MVP
 
-VerifySign es una plataforma de certificación digital forense que permite crear, compartir y verificar documentos con evidencia criptográfica inmutable.
+EcoSign es una plataforma de certificación digital forense que permite crear, compartir y verificar documentos con evidencia criptográfica inmutable.
 
 ### ✅ Características Implementadas
 
