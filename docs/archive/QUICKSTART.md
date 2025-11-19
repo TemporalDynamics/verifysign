@@ -1,4 +1,4 @@
-# VerifySign - Guía de Inicio Rápido
+# EcoSign - Guía de Inicio Rápido
 
 ## 🚀 Comenzar en 5 Minutos
 

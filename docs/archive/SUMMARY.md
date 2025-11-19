@@ -1,4 +1,4 @@
-# VerifySign - Resumen Ejecutivo de Implementación
+# EcoSign - Resumen Ejecutivo de Implementación
 
 ## ✅ Proyecto Completado
 
@@ -10,9 +10,9 @@
 
 ## Visión General
 
-VerifySign es una plataforma de certificación digital completa que implementa el paradigma .ECO/.ECOX con trazabilidad forense, transparencia total y soberanía de datos. El sistema permite a usuarios proteger, firmar y verificar documentos con evidencia criptográfica verificable, independiente de la plataforma.
+EcoSign es una plataforma de certificación digital completa que implementa el paradigma .ECO/.ECOX con trazabilidad forense, transparencia total y soberanía de datos. El sistema permite a usuarios proteger, firmar y verificar documentos con evidencia criptográfica verificable, independiente de la plataforma.
 
-**Mensaje Central**: "VerifySign no vende firmas, vende Verdad" / "Tu documento, tu prueba, tu soberanía."
+**Mensaje Central**: "EcoSign no vende firmas, vende Verdad" / "Tu documento, tu prueba, tu soberanía."
 
 ---
 
@@ -315,9 +315,9 @@ netlify logs
 
 ## Conclusión
 
-VerifySign está completamente implementado y listo para producción. El sistema cumple con todos los requisitos técnicos, de seguridad y de UX establecidos. La arquitectura es escalable, segura y mantenible.
+EcoSign está completamente implementado y listo para producción. El sistema cumple con todos los requisitos técnicos, de seguridad y de UX establecidos. La arquitectura es escalable, segura y mantenible.
 
-El proyecto refuerza exitosamente el mensaje central: **la evidencia digital debe pertenecer al usuario, no a la plataforma**. Los certificados .ECO son verificables independientemente de VerifySign, garantizando verdadera soberanía digital.
+El proyecto refuerza exitosamente el mensaje central: **la evidencia digital debe pertenecer al usuario, no a la plataforma**. Los certificados .ECO son verificables independientemente de EcoSign, garantizando verdadera soberanía digital.
 
 ---
 

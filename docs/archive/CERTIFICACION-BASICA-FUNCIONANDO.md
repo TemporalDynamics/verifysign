@@ -161,7 +161,7 @@ El archivo `.ecox` que se descarga incluye:
 
 ### **Test 1: Archivo de texto simple**
 
-1. Crear `test.txt` con contenido: `Hello, VerifySign!`
+1. Crear `test.txt` con contenido: `Hello, EcoSign!`
 2. Subir a Dashboard
 3. Certificar
 4. Verificar que:

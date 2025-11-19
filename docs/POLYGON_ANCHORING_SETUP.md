@@ -34,7 +34,7 @@ client/src/lib/
   └── polygonAnchor.js                  (Cliente - 200 líneas)
 
 contracts/
-  ├── VerifySignAnchor.sol              (Smart Contract - 110 líneas)
+  ├── EcoSignAnchor.sol              (Smart Contract - 110 líneas)
   └── deploy-polygon.md                 (Guía de deployment)
 
 client/src/lib/basicCertificationWeb.js (ACTUALIZADO)
@@ -53,13 +53,13 @@ client/src/lib/basicCertificationWeb.js (ACTUALIZADO)
 
 2. **Crear archivo**:
    - Click "+" en File Explorer
-   - Nombre: `VerifySignAnchor.sol`
-   - Copiar contenido de `contracts/VerifySignAnchor.sol`
+   - Nombre: `EcoSignAnchor.sol`
+   - Copiar contenido de `contracts/EcoSignAnchor.sol`
 
 3. **Compilar**:
    - Sidebar: "Solidity Compiler"
    - Versión: `0.8.20` o superior
-   - Click "Compile VerifySignAnchor.sol"
+   - Click "Compile EcoSignAnchor.sol"
    - ✅ Debe compilar sin errores
 
 4. **Deploy**:
@@ -98,7 +98,7 @@ Tienes 3 variables críticas que configurar:
 
 1. **Crear wallet separada** (RECOMENDADO):
    - Metamask → Create Account
-   - Nombre: "VerifySign Anchoring Bot"
+   - Nombre: "EcoSign Anchoring Bot"
    - Enviar 0.1 MATIC a esta cuenta (~$0.10)
    - **Usar SOLO esta wallet para anchoring**
 

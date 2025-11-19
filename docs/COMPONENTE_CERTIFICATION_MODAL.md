@@ -9,7 +9,7 @@
 
 ## 🎯 DESCRIPCIÓN
 
-Modal moderno de certificación de documentos con diseño según el Design System de VerifySign.
+Modal moderno de certificación de documentos con diseño según el Design System de EcoSign.
 
 ### Características principales:
 - ✅ **Flujo simplificado en 3 pasos** (Elegí → Firmá → Listo)

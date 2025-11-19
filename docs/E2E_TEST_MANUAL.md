@@ -1,4 +1,4 @@
-# VerifySign - Tests E2E Manuales
+# EcoSign - Tests E2E Manuales
 
 Documentación de pruebas end-to-end para validar los 3 flujos principales del MVP.
 
@@ -7,7 +7,7 @@ Documentación de pruebas end-to-end para validar los 3 flujos principales del M
 ## FLUJO 1: Certificar Documento
 
 ### Pre-requisitos
-- [ ] Usuario autenticado en VerifySign
+- [ ] Usuario autenticado en EcoSign
 - [ ] Documento PDF de prueba (< 10MB)
 - [ ] Buckets de Supabase configurados
 
@@ -177,7 +177,7 @@ Documentación de pruebas end-to-end para validar los 3 flujos principales del M
    - [ ] Información de anclaje blockchain (si aplica)
 
 ### Resultado esperado
-✅ Verificación independiente sin depender de VerifySign
+✅ Verificación independiente sin depender de EcoSign
 
 ---
 

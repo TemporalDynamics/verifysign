@@ -1,4 +1,4 @@
-# Corrección de Errores 404 en CTAs - VerifySign
+# Corrección de Errores 404 en CTAs - EcoSign
 
 ## Problema Identificado
 
@@ -8,7 +8,7 @@ Los botones CTA (Call To Action) en la landing page (`index.html`) estaban gener
 1. "Empezar mi Certificación Forense" (línea 535)
 2. "Validar un Documento Existente" (línea 536)
 3. "Unirme a la Revolución de la Confianza Digital" (línea 657)
-4. "Probar VerifySign Gratis" (línea 670)
+4. "Probar EcoSign Gratis" (línea 670)
 
 ### Causa Raíz
 
@@ -112,7 +112,7 @@ npm run dev
 3. Click en "Unirme a la Revolución..."
    → Debe abrir /app/access sin 404
 
-4. Click en "Probar VerifySign Gratis"
+4. Click en "Probar EcoSign Gratis"
    → Debe abrir /app/access sin 404
 ```
 

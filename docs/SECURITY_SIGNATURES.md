@@ -1,4 +1,4 @@
-# 🔐 Seguridad de Firmas Electrónicas - VerifySign
+# 🔐 Seguridad de Firmas Electrónicas - EcoSign
 
 ## ⚠️ POR QUÉ NO USAMOS FIRMA LOCAL
 
@@ -166,22 +166,22 @@ Opción B: Certificación .ECO + SignNow (pago, firma legal)
 
 ### Para Usuario que Necesita Firma Legal:
 
-1. **Sube documento** → VerifySign
+1. **Sube documento** → EcoSign
 2. **Dibuja firma** → Se embebe visualmente en PDF
 3. **PDF se envía a SignNow** → Procesamiento seguro
 4. **SignNow crea invite** → Email al firmante
 5. **Firmante accede** → SignNow registra IP, dispositivo, etc.
 6. **SignNow genera PDF final** → Con audit trail embebido
 7. **Usuario descarga** → PDF con validez legal
-8. **VerifySign certifica** → Hash en blockchain (.ECO)
+8. **EcoSign certifica** → Hash en blockchain (.ECO)
 
 **Resultado**: Documento firmado + certificado + blockchain
 
 ### Para Usuario que Solo Necesita Certificación:
 
-1. **Sube documento** → VerifySign
+1. **Sube documento** → EcoSign
 2. **Salta firma** → No envía a SignNow
-3. **VerifySign certifica** → Hash + timestamp
+3. **EcoSign certifica** → Hash + timestamp
 4. **Opcional: Blockchain** → Bitcoin anchoring
 5. **Descarga .ecox** → Prueba de existencia
 
@@ -257,4 +257,4 @@ Todos estos son **terceros independientes** con infraestructura certificada.
 
 ---
 
-Hecho con 🔐 por VerifySign
+Hecho con 🔐 por EcoSign

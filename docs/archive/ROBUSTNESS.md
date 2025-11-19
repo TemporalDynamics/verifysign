@@ -1,4 +1,4 @@
-# VerifySign - Mejoras de Robustez y Resiliencia
+# EcoSign - Mejoras de Robustez y Resiliencia
 
 Documento que detalla todas las capas de protección implementadas para garantizar estabilidad, seguridad y experiencia de usuario excepcional.
 
@@ -6,7 +6,7 @@ Documento que detalla todas las capas de protección implementadas para garantiz
 
 ## 🎯 Objetivo
 
-Transformar VerifySign de un MVP funcional a una aplicación **production-ready** con:
+Transformar EcoSign de un MVP funcional a una aplicación **production-ready** con:
 - Manejo elegante de errores
 - Recuperación automática de fallos transientes
 - Protección contra abuso

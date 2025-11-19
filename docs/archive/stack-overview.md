@@ -1,4 +1,4 @@
-# Stack Real de VerifySign (Nov-2025)
+# Stack Real de EcoSign (Nov-2025)
 
 ## Frontend Web (`/client`)
 - **Framework**: React 18.3 (funcional, componentes en JavaScript moderno sin TypeScript).

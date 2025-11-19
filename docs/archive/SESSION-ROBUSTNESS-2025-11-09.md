@@ -6,7 +6,7 @@
 
 ## 📊 Resumen Ejecutivo
 
-Transformación de VerifySign MVP → **Production-Ready** mediante la implementación de capas completas de error handling, resiliencia y protección contra abuso.
+Transformación de EcoSign MVP → **Production-Ready** mediante la implementación de capas completas de error handling, resiliencia y protección contra abuso.
 
 ---
 

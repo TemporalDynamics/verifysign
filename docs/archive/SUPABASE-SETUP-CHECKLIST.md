@@ -1,4 +1,4 @@
-# ✅ Supabase Setup Checklist - VerifySign
+# ✅ Supabase Setup Checklist - EcoSign
 
 Guía paso a paso para configurar tu proyecto Supabase desde CERO.
 
@@ -51,7 +51,7 @@ SELECT tablename FROM pg_tables WHERE schemaname = 'public';
 **Copy-paste completo del archivo** (333 líneas):
 
 ```sql
--- VerifySign Core Schema
+-- EcoSign Core Schema
 -- Version: 1.0.0
 -- Description: Tablas principales para documentos, links, NDAs y auditoría
 
@@ -506,7 +506,7 @@ Deberías ver 5 buckets en la lista:
 **Copy-paste completo** (179 líneas):
 
 ```sql
--- VerifySign Storage Policies
+-- EcoSign Storage Policies
 -- Version: 1.0.0
 -- Description: Políticas de acceso para buckets + lifecycle rules
 
@@ -734,7 +734,7 @@ Volver a Supabase:
    User: resend
    Password: [TU API KEY de Resend]
    Sender email: noreply@tudominio.com
-   Sender name: VerifySign
+   Sender name: EcoSign
    ```
 5. Click **Save**
 
@@ -752,7 +752,7 @@ Port: 587
 User: tucorreo@gmail.com
 Password: [App Password de Gmail]
 Sender email: tucorreo@gmail.com
-Sender name: VerifySign
+Sender name: EcoSign
 ```
 
 ### 5.3 Configurar Email Templates
@@ -761,9 +761,9 @@ Sender name: VerifySign
 
 **Confirm Signup**:
 ```html
-<h2>Confirma tu email - VerifySign</h2>
+<h2>Confirma tu email - EcoSign</h2>
 <p>Hola,</p>
-<p>Gracias por registrarte en VerifySign. Confirma tu email haciendo click en el botón:</p>
+<p>Gracias por registrarte en EcoSign. Confirma tu email haciendo click en el botón:</p>
 <p><a href="{{ .ConfirmationURL }}" style="background:#0891b2; color:white; padding:12px 24px; text-decoration:none; border-radius:6px; display:inline-block;">Confirmar Email</a></p>
 <p>O copia este link en tu navegador:</p>
 <p>{{ .ConfirmationURL }}</p>
@@ -774,7 +774,7 @@ Sender name: VerifySign
 
 **Reset Password**:
 ```html
-<h2>Resetear Contraseña - VerifySign</h2>
+<h2>Resetear Contraseña - EcoSign</h2>
 <p>Hola,</p>
 <p>Recibimos una solicitud para resetear tu contraseña. Click en el botón:</p>
 <p><a href="{{ .ConfirmationURL }}" style="background:#0891b2; color:white; padding:12px 24px; text-decoration:none; border-radius:6px; display:inline-block;">Resetear Contraseña</a></p>

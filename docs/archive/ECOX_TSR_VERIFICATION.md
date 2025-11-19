@@ -2,7 +2,7 @@
 
 ## Overview
 
-This update adds comprehensive RFC 3161 Time-Stamp Protocol (TSP) verification to VerifySign, enabling validation of legal timestamps embedded in .ecox files. The system now supports server-side verification of PKCS#7 Time-Stamp Request (TSR) tokens using the robust `node-forge` library.
+This update adds comprehensive RFC 3161 Time-Stamp Protocol (TSP) verification to EcoSign, enabling validation of legal timestamps embedded in .ecox files. The system now supports server-side verification of PKCS#7 Time-Stamp Request (TSR) tokens using the robust `node-forge` library.
 
 ## Installation & Setup
 
@@ -115,4 +115,4 @@ When you verify a .ecox file containing a legal timestamp, you'll see:
 - Signature and certificate chain validation status
 - Complete forensic verification report
 
-This enhancement makes VerifySign suitable for legal and forensic applications requiring certified timestamps with non-repudiation properties.
+This enhancement makes EcoSign suitable for legal and forensic applications requiring certified timestamps with non-repudiation properties.

@@ -1,10 +1,10 @@
-# VerifySign - Arquitectura del Sistema
+# EcoSign - Arquitectura del Sistema
 
 ## Resumen Ejecutivo
 
-VerifySign es una plataforma de certificación digital que implementa el paradigma .ECO/.ECOX con trazabilidad forense completa, transparencia radical y soberanía de datos. El sistema permite proteger, firmar y verificar documentos sin dependencias gubernamentales ni pagos a terceros.
+EcoSign es una plataforma de certificación digital que implementa el paradigma .ECO/.ECOX con trazabilidad forense completa, transparencia radical y soberanía de datos. El sistema permite proteger, firmar y verificar documentos sin dependencias gubernamentales ni pagos a terceros.
 
-**Mensaje Central**: "VerifySign no vende firmas, vende Verdad" / "Tu documento, tu prueba, tu soberanía."
+**Mensaje Central**: "EcoSign no vende firmas, vende Verdad" / "Tu documento, tu prueba, tu soberanía."
 
 ---
 
@@ -390,7 +390,7 @@ proofHash = SHA256(sha256Hash + timestamp + nonce)
 
 ## Conclusión
 
-VerifySign implementa una arquitectura robusta y escalable que prioriza la soberanía digital del usuario sobre la comodidad centralizada. Cada decisión arquitectónica refuerza el mensaje central: la evidencia forense pertenece al usuario, no a la plataforma.
+EcoSign implementa una arquitectura robusta y escalable que prioriza la soberanía digital del usuario sobre la comodidad centralizada. Cada decisión arquitectónica refuerza el mensaje central: la evidencia forense pertenece al usuario, no a la plataforma.
 
 El sistema está diseñado para sobrevivir incluso si la plataforma desaparece, garantizando que los certificados .ECO mantengan su validez matemática indefinidamente.
 

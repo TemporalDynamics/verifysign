@@ -1,4 +1,4 @@
-# Verificación Byte-a-Byte de Archivos en VerifySign
+# Verificación Byte-a-Byte de Archivos en EcoSign
 
 ## 🎯 Característica Implementada
 

@@ -1,10 +1,10 @@
-# Verificación Completa de .ECOX dentro de VerifySign
+# Verificación Completa de .ECOX dentro de EcoSign
 
 ## 🌐 Cómo usar la verificación avanzada directamente en la web
 
 ### ✅ **Todo en un solo lugar: El Verificador Web**
 
-Ya no necesitas herramientas de línea de comandos ni nada externo. Toda la verificación avanzada de .ECOX se realiza directamente en la página del verificador de VerifySign.
+Ya no necesitas herramientas de línea de comandos ni nada externo. Toda la verificación avanzada de .ECOX se realiza directamente en la página del verificador de EcoSign.
 
 ### 🔍 **Pasos para verificar un archivo .ECOX:**
 
@@ -57,7 +57,7 @@ Todo el proceso ocurre:
 
 - **No requiere instalación**: Todo en el navegador
 - **Accesible desde cualquier lugar**: No necesitas CLI
-- **Integración completa**: Todo el ecosistema VerifySign en un solo lugar
+- **Integración completa**: Todo el ecosistema EcoSign en un solo lugar
 - **Experiencia de usuario fluida**: Resultados inmediatos en la interfaz
 - **Seguridad reforzada**: Verificación criptográfica en el backend
 
@@ -88,4 +88,4 @@ El sistema está completamente implementado. Simplemente:
 3. Mira todos los detalles de verificación, incluyendo timestamps legales
 4. Recibe un informe forense completo en la interfaz web
 
-Todo ocurre dentro de VerifySign, sin necesidad de herramientas externas.
+Todo ocurre dentro de EcoSign, sin necesidad de herramientas externas.

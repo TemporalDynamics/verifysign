@@ -1,4 +1,4 @@
-# Guía de Deployment - VerifySign MVP
+# Guía de Deployment - EcoSign MVP
 
 ## 🚀 Deployment a Netlify (Recomendado)
 
@@ -8,7 +8,7 @@
 ```bash
 cd /home/manu/verifysign
 git add client/*
-git commit -m "feat: VerifySign MVP completo - Landing, Verify, Dashboard y Pricing funcionales"
+git commit -m "feat: EcoSign MVP completo - Landing, Verify, Dashboard y Pricing funcionales"
 git push origin main
 ```
 

@@ -1,6 +1,6 @@
-a# VerifySign Architecture
+a# EcoSign Architecture
 
-This document captures the current VerifySign architecture after the repo cleanup. The goal is a lean JAMStack setup centered on a single Vite/React frontend, Supabase for backend services, and a shared `eco-packer` package for certificate generation.
+This document captures the current EcoSign architecture after the repo cleanup. The goal is a lean JAMStack setup centered on a single Vite/React frontend, Supabase for backend services, and a shared `eco-packer` package for certificate generation.
 
 ## High-Level Overview
 

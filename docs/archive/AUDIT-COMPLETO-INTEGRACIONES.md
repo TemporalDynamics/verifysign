@@ -2,7 +2,7 @@
 
 **Fecha**: 2025-11-10
 **Auditor**: Claude Code (Anthropic)
-**Proyecto**: VerifySign - Plataforma de certificación digital
+**Proyecto**: EcoSign - Plataforma de certificación digital
 **Versión Auditada**: v1.0.0-MVP
 
 ---
@@ -12,7 +12,7 @@
 1. [Resumen Ejecutivo](#resumen-ejecutivo)
 2. [Auditoría de Integraciones Mifiel/SignNow](#auditoría-de-integraciones)
 3. [Análisis de eco-packer](#análisis-eco-packer)
-4. [Plan de Integración eco-packer → VerifySign](#plan-de-integración)
+4. [Plan de Integración eco-packer → EcoSign](#plan-de-integración)
 5. [Recomendaciones Críticas](#recomendaciones-críticas)
 6. [Documentación para Licencias](#documentación-licencias)
 
@@ -589,7 +589,7 @@ manifest.assets[0].fileHash = assetHash;
 | **Professional** | Commercial products | **$99/dev/year** | 1,000 assets, 3 signatures |
 | **Enterprise** | Large organizations | **$499/org/year** | Unlimited + SLA |
 
-**Para VerifySign**: Necesitarás **Professional** ($99/año/dev) para uso comercial.
+**Para EcoSign**: Necesitarás **Professional** ($99/año/dev) para uso comercial.
 
 ---
 
@@ -625,7 +625,7 @@ Integrar eco-packer para:
 ### 🗺️ **Arquitectura Propuesta**
 
 ```
-VerifySign Architecture with eco-packer
+EcoSign Architecture with eco-packer
 ========================================
 
 CLIENT (React)
@@ -743,7 +743,7 @@ const handleCertify = async (file) => {
       segments: [],
       metadata: {
         title: file.name,
-        certifiedBy: 'VerifySign',
+        certifiedBy: 'EcoSign',
         platform: 'verifysign.pro'
       }
     };
@@ -1141,14 +1141,14 @@ CREATE POLICY "Users can insert own public keys"
 
 ## 6. DOCUMENTACIÓN PARA LICENCIAS
 
-### 📜 **Licenciamiento del Proyecto VerifySign**
+### 📜 **Licenciamiento del Proyecto EcoSign**
 
 #### **Componentes y sus Licencias**
 
 | Componente | Licencia | Requiere Pago | Notas |
 |------------|----------|---------------|-------|
-| **VerifySign Frontend** | MIT | No | Open Source |
-| **VerifySign Backend** | MIT | No | Open Source |
+| **EcoSign Frontend** | MIT | No | Open Source |
+| **EcoSign Backend** | MIT | No | Open Source |
 | **eco-packer** | Dual (MIT + Commercial) | Sí (Commercial) | $99/dev/año |
 | **Supabase** | Apache 2.0 | No (self-hosted) / Sí (cloud) | Free tier disponible |
 | **Stripe** | Propietario | Comisión (2.9% + $0.30) | Pay-as-you-go |
@@ -1197,14 +1197,14 @@ CREATE POLICY "Users can insert own public keys"
 
 ---
 
-### 📄 **LICENSE.md para VerifySign**
+### 📄 **LICENSE.md para EcoSign**
 
 ```markdown
-# VerifySign License
+# EcoSign License
 
 ## Core Platform
 
-VerifySign core platform (frontend + backend) is licensed under the **MIT License**.
+EcoSign core platform (frontend + backend) is licensed under the **MIT License**.
 
 Copyright (c) 2025 Temporal Dynamics LLC
 
@@ -1225,7 +1225,7 @@ This project uses `@temporaldynamics/eco-packer`, which is dual-licensed:
 - **Community Edition (MIT)**: Free for personal and open-source use
 - **Professional/Enterprise**: Commercial license required ($99/dev/year)
 
-For commercial use of VerifySign, you must obtain a Professional license from:
+For commercial use of EcoSign, you must obtain a Professional license from:
 https://temporaldynamics.com/eco-packer/pricing
 
 ### External Services
@@ -1238,8 +1238,8 @@ https://temporaldynamics.com/eco-packer/pricing
 
 ## Usage Restrictions
 
-- You may NOT use the VerifySign name or logo without permission
-- You may NOT claim VerifySign is officially endorsed by Temporal Dynamics
+- You may NOT use the EcoSign name or logo without permission
+- You may NOT claim EcoSign is officially endorsed by Temporal Dynamics
 - You MUST obtain appropriate licenses for eco-packer if used commercially
 
 ---
@@ -1268,7 +1268,7 @@ For questions: legal@verifysign.pro
 - Código TypeScript sólido
 - Criptografía robusta (Ed25519 + SHA-256)
 - Performance excelente (<500ms para 1K assets)
-- **LISTO para integración en VerifySign**
+- **LISTO para integración en EcoSign**
 
 ---
 
@@ -1302,7 +1302,7 @@ For questions: legal@verifysign.pro
 - Soporte: support@temporaldynamics.com
 - Documentación: [eco-packer/README.md](../eco-packer/README.md)
 
-**VerifySign**:
+**EcoSign**:
 - Issues: GitHub Issues
 - Documentación: [/docs](../docs/)
 

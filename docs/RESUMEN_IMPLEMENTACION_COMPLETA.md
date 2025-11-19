@@ -1,4 +1,4 @@
-# RESUMEN: Implementación Completa VerifySign
+# RESUMEN: Implementación Completa EcoSign
 
 **Fecha**: 2025-11-17
 **Estado**: ✅ Backend 100% Operativo | ✅ Sin Mocks | ⏳ Frontend Pendiente
@@ -26,7 +26,7 @@
 **Archivos creados**:
 - `supabase/functions/anchor-polygon/index.ts` (260 líneas)
 - `client/src/lib/polygonAnchor.js` (200 líneas)
-- `contracts/VerifySignAnchor.sol` (110 líneas)
+- `contracts/EcoSignAnchor.sol` (110 líneas)
 - `contracts/deploy-polygon.md` (Guía completa)
 - `basicCertificationWeb.js` (Integración)
 
@@ -176,7 +176,7 @@ client/src/
 ### Smart Contracts (1 nuevo):
 ```
 contracts/
-├── VerifySignAnchor.sol            ✅ (listo para deploy)
+├── EcoSignAnchor.sol            ✅ (listo para deploy)
 └── deploy-polygon.md               ✅ (guía completa)
 ```
 
@@ -411,7 +411,7 @@ curl -X POST "https://tbxowirrvgtvfnxcdqks.supabase.co/functions/v1/anchor-polyg
 
 ## CONCLUSIÓN
 
-**El backend de VerifySign está 100% funcional y sin mocks.**
+**El backend de EcoSign está 100% funcional y sin mocks.**
 
 Todo lo que se anuncia en marketing es real y verificable:
 - ✅ Triple Anchoring con blockchain

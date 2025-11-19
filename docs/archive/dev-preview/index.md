@@ -1,6 +1,6 @@
-# Developer Preview Pack — VerifySign
+# Developer Preview Pack — EcoSign
 
-Bienvenido al piloto técnico de VerifySign. Este documento resume lo necesario para que developers auditen el protocolo `.ECO`, prueben el MVP en local y entiendan las limitaciones actuales.
+Bienvenido al piloto técnico de EcoSign. Este documento resume lo necesario para que developers auditen el protocolo `.ECO`, prueben el MVP en local y entiendan las limitaciones actuales.
 
 ## 1. ¿Qué es el formato `.ECO`?
 - Archivo comprimido (`zip/DEFLATE`) que contiene `manifest.json` con metadatos del documento, hashes SHA-256 de cada activo y una firma Ed25519.
