@@ -820,7 +820,7 @@ Editar: `client/.env`
 
 ```bash
 # Supabase
-VITE_SUPABASE_URL=https://tbxowirrvgtvfnxcdqks.supabase.co
+VITE_SUPABASE_URL=https://uiyojopjbhooxrmamaiw.supabase.co
 VITE_SUPABASE_ANON_KEY=eyJhbGc... (tu anon key completa)
 
 # Backend (Netlify Functions)
@@ -909,9 +909,9 @@ SELECT * FROM public.documents;
 
 Agregar:
 ```
-VITE_SUPABASE_URL=https://tbxowirrvgtvfnxcdqks.supabase.co
+VITE_SUPABASE_URL=https://uiyojopjbhooxrmamaiw.supabase.co
 VITE_SUPABASE_ANON_KEY=eyJhbGc...
-SUPABASE_URL=https://tbxowirrvgtvfnxcdqks.supabase.co
+SUPABASE_URL=https://uiyojopjbhooxrmamaiw.supabase.co
 SUPABASE_ANON_KEY=eyJhbGc...
 SUPABASE_SERVICE_ROLE_KEY=eyJhbGc... (SECRET!)
 HMAC_SIGN_SECRET=tu-secret-aqui

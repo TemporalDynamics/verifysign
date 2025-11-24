@@ -83,7 +83,7 @@ supabase secrets set RESEND_API_KEY="re_..."
 TOKEN="Bearer eyJhbG..."
 
 # Crear workflow de prueba
-curl -X POST "https://tbxowirrvgtvfnxcdqks.supabase.co/functions/v1/start-signature-workflow" \
+curl -X POST "https://uiyojopjbhooxrmamaiw.supabase.co/functions/v1/start-signature-workflow" \
   -H "Authorization: $TOKEN" \
   -H "Content-Type: application/json" \
   -d '{
@@ -137,7 +137,7 @@ curl -X POST "https://tbxowirrvgtvfnxcdqks.supabase.co/functions/v1/start-signat
 # Usar el token del debug del test anterior
 SIGNER_TOKEN="abc123..."
 
-curl -X POST "https://tbxowirrvgtvfnxcdqks.supabase.co/functions/v1/process-signature" \
+curl -X POST "https://uiyojopjbhooxrmamaiw.supabase.co/functions/v1/process-signature" \
   -H "Content-Type: application/json" \
   -d '{
     "accessToken": "'$SIGNER_TOKEN'",
@@ -174,7 +174,7 @@ curl -X POST "https://tbxowirrvgtvfnxcdqks.supabase.co/functions/v1/process-sign
 # Usando token del segundo firmante
 SIGNER2_TOKEN="def456..."
 
-curl -X POST "https://tbxowirrvgtvfnxcdqks.supabase.co/functions/v1/request-document-changes" \
+curl -X POST "https://uiyojopjbhooxrmamaiw.supabase.co/functions/v1/request-document-changes" \
   -H "Content-Type: application/json" \
   -d '{
     "accessToken": "'$SIGNER2_TOKEN'",
@@ -202,7 +202,7 @@ curl -X POST "https://tbxowirrvgtvfnxcdqks.supabase.co/functions/v1/request-docu
 #### Test 4: Responder a Cambios (Rechazar)
 
 ```bash
-curl -X POST "https://tbxowirrvgtvfnxcdqks.supabase.co/functions/v1/respond-to-changes" \
+curl -X POST "https://uiyojopjbhooxrmamaiw.supabase.co/functions/v1/respond-to-changes" \
   -H "Authorization: $TOKEN" \
   -H "Content-Type: application/json" \
   -d '{

@@ -118,7 +118,7 @@
   npm install ../eco-packer
 
   # 2. Verificar que Supabase está accesible
-  curl https://tbxowirrvgtvfnxcdqks.supabase.co/rest/v1/
+  curl https://uiyojopjbhooxrmamaiw.supabase.co/rest/v1/
 
   Checkpoint: eco-packer importable, Supabase responde
 
@@ -130,7 +130,7 @@
   1. Ejecutar SQL migrations en Supabase Dashboard
   2. Configurar SMTP (Gmail o Resend)
   3. Copiar credenciales a client/.env:
-  VITE_SUPABASE_URL=https://tbxowirrvgtvfnxcdqks.supabase.co
+  VITE_SUPABASE_URL=https://uiyojopjbhooxrmamaiw.supabase.co
   VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
 
   Tarea 1.2: Implementar Signup/Login Real (1 hora)
@@ -371,7 +371,7 @@
   cp .env.example .env
 
   # Editar .env:
-  VITE_SUPABASE_URL=https://tbxowirrvgtvfnxcdqks.supabase.co
+  VITE_SUPABASE_URL=https://uiyojopjbhooxrmamaiw.supabase.co
   VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
 
   Quick Win #2: Instalar eco-packer

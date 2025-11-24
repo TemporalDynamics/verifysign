@@ -111,7 +111,7 @@ Tienes 3 variables críticas que configurar:
 3. **Configurar en Supabase**:
 
 **Opción A: Dashboard** (Más fácil):
-   - Ve a Supabase Dashboard: https://supabase.com/dashboard/project/tbxowirrvgtvfnxcdqks
+   - Ve a Supabase Dashboard: https://supabase.com/dashboard/project/uiyojopjbhooxrmamaiw
    - Settings → Edge Functions → Manage secrets
    - Click "New secret"
    - Agregar los 3 secrets:
@@ -130,7 +130,7 @@ Tienes 3 variables críticas que configurar:
 **Opción B: CLI**:
 ```bash
 # Link al proyecto (si no está linkeado)
-supabase link --project-ref tbxowirrvgtvfnxcdqks
+supabase link --project-ref uiyojopjbhooxrmamaiw
 
 # Configurar secrets
 supabase secrets set POLYGON_RPC_URL="https://polygon-mainnet.g.alchemy.com/v2/OBJkEAhQmQDkgNiqFE-En"
@@ -147,8 +147,8 @@ supabase secrets set POLYGON_CONTRACT_ADDRESS="0x..."
 supabase functions deploy anchor-polygon --no-verify-jwt
 
 # Output esperado:
-# ✓ Deployed Functions on project tbxowirrvgtvfnxcdqks: anchor-polygon
-# Function URL: https://tbxowirrvgtvfnxcdqks.supabase.co/functions/v1/anchor-polygon
+# ✓ Deployed Functions on project uiyojopjbhooxrmamaiw: anchor-polygon
+# Function URL: https://uiyojopjbhooxrmamaiw.supabase.co/functions/v1/anchor-polygon
 ```
 
 ---
@@ -157,7 +157,7 @@ supabase functions deploy anchor-polygon --no-verify-jwt
 
 ```bash
 # Test con hash de ejemplo
-curl -X POST "https://tbxowirrvgtvfnxcdqks.supabase.co/functions/v1/anchor-polygon" \
+curl -X POST "https://uiyojopjbhooxrmamaiw.supabase.co/functions/v1/anchor-polygon" \
   -H "Content-Type: application/json" \
   -d '{
     "documentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",

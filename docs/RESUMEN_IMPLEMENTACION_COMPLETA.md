@@ -278,7 +278,7 @@ WHERE wf.workflow_id = 'uuid-del-workflow';
 
 ### Probar Polygon:
 ```bash
-curl -X POST "https://tbxowirrvgtvfnxcdqks.supabase.co/functions/v1/anchor-polygon" \
+curl -X POST "https://uiyojopjbhooxrmamaiw.supabase.co/functions/v1/anchor-polygon" \
   -d '{"documentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"}'
 ```
 

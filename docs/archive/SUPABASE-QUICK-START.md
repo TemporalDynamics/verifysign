@@ -132,7 +132,7 @@ Copiar 3 valores:
 
 ```bash
 # Supabase
-VITE_SUPABASE_URL=https://tbxowirrvgtvfnxcdqks.supabase.co
+VITE_SUPABASE_URL=https://uiyojopjbhooxrmamaiw.supabase.co
 VITE_SUPABASE_ANON_KEY=eyJhbGc... (copiar anon key completa)
 
 # Backend

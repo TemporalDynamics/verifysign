@@ -32,7 +32,7 @@ supabase functions deploy legal-timestamp --no-verify-jwt
 
 **Prueba exitosa**:
 ```bash
-curl -X POST "https://tbxowirrvgtvfnxcdqks.supabase.co/functions/v1/legal-timestamp" \
+curl -X POST "https://uiyojopjbhooxrmamaiw.supabase.co/functions/v1/legal-timestamp" \
   -d '{"hash_hex": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"}'
 # Resultado: success=true, token_bytes=5476, standard="RFC 3161"
 ```

@@ -434,7 +434,7 @@ SELECT cron.schedule(
   '0 * * * *', -- Cada hora
   $$
   SELECT net.http_post(
-    url := 'https://tbxowirrvgtvfnxcdqks.supabase.co/functions/v1/expire-signer-links',
+    url := 'https://uiyojopjbhooxrmamaiw.supabase.co/functions/v1/expire-signer-links',
     headers := '{"Authorization": "Bearer YOUR_SERVICE_ROLE_KEY"}'::jsonb
   );
   $$

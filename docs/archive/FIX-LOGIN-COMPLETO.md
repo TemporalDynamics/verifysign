@@ -41,7 +41,7 @@
 **Ya están configuradas en** `client/.env`:
 
 ```bash
-VITE_SUPABASE_URL=https://tbxowirrvgtvfnxcdqks.supabase.co
+VITE_SUPABASE_URL=https://uiyojopjbhooxrmamaiw.supabase.co
 VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
 ```
 
@@ -98,7 +98,7 @@ Asegúrate que **Email** esté habilitado:
 
 | Variable | Value | Environments |
 |----------|-------|--------------|
-| `VITE_SUPABASE_URL` | `https://tbxowirrvgtvfnxcdqks.supabase.co` | Production, Preview, Development |
+| `VITE_SUPABASE_URL` | `https://uiyojopjbhooxrmamaiw.supabase.co` | Production, Preview, Development |
 | `VITE_SUPABASE_ANON_KEY` | `eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...` | Production, Preview, Development |
 
 **⚠️ IMPORTANTE**: Las variables que empiezan con `VITE_` son las únicas que Vite expone al frontend.
